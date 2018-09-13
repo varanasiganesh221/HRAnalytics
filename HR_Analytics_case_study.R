@@ -1,8 +1,7 @@
 
 #############################################################
 # Logistic Regression Assignment: Employee attrition Model
-# Submitted By: Rakesh Reddy, Ganesh Varanasi
-#               Krishnasurekha, Radhe Thakur
+
 #############################################################
 
 
